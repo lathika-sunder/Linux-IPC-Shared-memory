@@ -56,4 +56,4 @@ int main()
 # RESULT:
 
 The program is executed successfully.
-](https://github.com/lathika-sunder/Linux-IPC-Semaphores/)
+
